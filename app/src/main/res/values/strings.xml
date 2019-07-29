@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">tawokrsop</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string-array name="Heros_image">
+        <item>@drawable/hulk</item>
+        <item>@drawable/iman</item>
+        <item>@drawable/robin</item>
+        <item>@drawable/spiderman</item>
+        <item>@drawable/superman</item>
+        <item>@drawable/thor</item>
+        <item>@drawable/wonde</item>
+        <item>@drawable/camerika</item>
+    </string-array>
+    <array name="Heros_name">
+        <item>Hulk</item>
+        <item>Ironman</item>
+        <item>Robin</item>
+        <item>Spiderman</item>
+        <item>Superman</item>
+        <item>Thor</item>
+        <item>Wonder Woman</item>
+        <item>Captain Amerika</item>
+    </array>
+</resources>
